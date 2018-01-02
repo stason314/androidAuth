@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\4d1fa2b9d55e4cc045229a550a28557efa68d864\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_53af9024a1ba0798f473cf63811349a536374829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\03d59b2cecd3d54343b47dab486b3922ef88fcab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_eb68459853a424b1585264b80a90efb3f69ec482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\b6933ec230d3ef8db18f3ee852180449358440fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_f1c34a094d8777b131d16659e1c3ed3c5f8003ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\9dccc91ac1595db07344347b399010aef6054495\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_14abd44512c6f0e6b6bc370afe5b86504adc89ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\5536ca5b3f7437723034748480ba122a11afe525\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_f7ddcdb3d116930c74ddad6ca5d2b659269b36fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\db05f45db5d5f9f5dad95193938d16014b8263bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_0ff90ab99b14771b6cb9167f9f3a33cabb019ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\f20d41cf4bdfe054e2f1314e5d6209f4efd2e0d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_06714ecf5c104ede9ffc1e69593ecab9cfa6131b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\9d3def2d7d106445f580714f1be5c4b3e9592e87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_6d8085dca92de332ca60ae35c31278a4b720ddd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\.android\build-cache\446bd2b11f781faee89110b7cda7e78e7a86bb54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\classes_220c231c3889e760faf16d12281f9735f4c4e6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stani\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\AndroidApps\LogInLogOut\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ec555e3448807569434aad6a4d5b8d8402495810.jar" />
+    </item>
+
+</items>

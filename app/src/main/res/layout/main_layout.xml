@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="61dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:layout_below="@+id/editLogIn"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/editLogIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editPass"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/editPass"
+        android:layout_marginTop="47dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editLogIn"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/editLogIn"
+        android:layout_marginTop="14dp"
+        android:text="LogIn" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editPass"
+        android:layout_alignStart="@+id/editPass"
+        android:layout_below="@+id/editLogIn"
+        android:layout_marginTop="25dp"
+        android:text="PassWord" />
+
+    <Button
+        android:id="@+id/buttonLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editPass"
+        android:layout_alignRight="@+id/editPass"
+        android:layout_below="@+id/editPass"
+        android:layout_marginTop="48dp"
+        android:text="Log In" />
+
+    <Button
+        android:id="@+id/buttonSign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editPass"
+        android:layout_alignStart="@+id/editPass"
+        android:layout_alignTop="@+id/buttonLog"
+        android:text="Sign In" />
+
+    <TextView
+        android:id="@+id/error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonLog"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp" />
+</RelativeLayout>

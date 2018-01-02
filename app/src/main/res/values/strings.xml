@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LogInLogOut</string>
+    <string name="default_password">nologin</string>
+</resources>
